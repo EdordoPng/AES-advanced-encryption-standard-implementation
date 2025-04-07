@@ -84,11 +84,11 @@ result_with_masking = AES_encr_state_xor_m(AES_state, key)
 ## Theoretical Aspects
 The project explores various theoretical topics related to AES:
 
-### Bit and Byte Ordering
-Analysis of bit organization within bytes and the use of Big Endian encoding.
+        ### Bit and Byte Ordering
+        Analysis of bit organization within bytes and the use of Big Endian encoding.
 
-### Finite Field Arithmetic
-Implementation of operations in GF(2^8) with details on the polynomial interpretation of bytes.
+        ### Finite Field Arithmetic
+        Implementation of operations in GF(2^8) with details on the polynomial interpretation of bytes.
 
 ### Linearity Properties
 Mathematical study of AES transformations, highlighting which are linear and which are not.
@@ -96,4 +96,6 @@ Mathematical study of AES transformations, highlighting which are linear and whi
 ### Side-Channel Attack Resistance
 Considerations on alternative AES state organizations to improve resistance against side-channel
 
-# Official AESpaper link : https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf
+# Official AES paper link: 
+
+https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf

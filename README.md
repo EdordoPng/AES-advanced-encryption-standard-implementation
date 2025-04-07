@@ -1,6 +1,3 @@
-# aes-implementation
-AES detailed implementation example
-
 # AES Implementation
 
 A complete implementation of the **Advanced Encryption Standard (AES)** developed as a university project for the **Advanced Topics in Cybersecurity** course.
